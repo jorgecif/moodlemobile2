@@ -1,5 +1,5 @@
-Moodle Mobilevfor Evoke
-=================
+Moodle Mobile for Evoke
+=======================
 
 This is the primary repository of source code for the official Moodle Mobile app.
 
